@@ -1,0 +1,6 @@
+[Task]
+triggerOnFirstLogin=true
+triggerOnLogin=true
+triggerOntime=false
+timevalue=10:15
+script=altlaunch-tasks.txt
